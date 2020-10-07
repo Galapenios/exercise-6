@@ -29,7 +29,7 @@ def passgen():
 
     chosenpass = int(input("\n what password would you like to use?"))
 
-    print(possiblepass(chosenpass))
+    print("Choose one!")
 
 
 def checkpw():
